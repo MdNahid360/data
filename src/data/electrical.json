@@ -1,0 +1,151 @@
+{
+    "allData": [{
+        "1semester": [{
+            "semester": 1,
+            "id": 1,
+            "subjectName": "bangla",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 1,
+            "id": 2,
+            "subjectName": "english",
+            "year": 2022, 
+            "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 1,
+            "id": 3,
+            "subjectName": "math",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }],
+        "2semester": [{
+                "semester": 2,
+                "id": 1,
+                "subjectName": "bangla",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            },
+            {
+                "semester": 2,
+                "id": 2,
+                "subjectName": "english",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            },
+            {
+                "semester": 2,
+                "id": 3,
+                "subjectName": "math",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            }
+        ],
+        "3semester": [{
+                "semester": 3,
+                "id": 1,
+                "subjectName": "bangla",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            }, {
+                "semester": 3,
+                "id": 2,
+                "subjectName": "english",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            },
+            {
+                "semester": 3,
+                "id": 3,
+                "subjectName": "math",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+                "year": 2022, "questionType":"2021 poriporok question",
+                "download": "www.google.com"
+            }
+        ],
+        "4semester": [{
+            "semester": 4,
+            "id": 1,
+            "subjectName": "bangla",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 4,
+            "id": 2,
+            "subjectName": "english",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 4,
+            "id": 3,
+            "subjectName": "math",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }],
+        "5semester": [{
+            "semester": 5,
+            "id": 1,
+            "subjectName": "bangla",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 5,
+            "id": 2,
+            "subjectName": "english",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }, {
+            "semester": 5,
+            "id": 3,
+            "subjectName": "math",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "thum": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "preview": "https://www.researchgate.net/profile/Faruque-Haolader-2/publication/279395110/figure/fig10/AS:650504640143361@1532103800139/A-question-paper-for-the-6th-semester-final-examination-in-subject-Microcontroller_Q640.jpg",
+            "year": 2022, "questionType":"2021 poriporok question",
+            "download": "www.google.com"
+        }]
+
+    }]
+}
