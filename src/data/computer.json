@@ -1,0 +1,29 @@
+[{
+        "computer": [{
+            "firstSemester": [{
+                    "semester": 1,
+                    "id": 1,
+                    "subjectName": "bangla",
+                    "year": 2022,
+                    "questionType": "2021 poriporok question"
+                },
+                {
+                    "semester": 1,
+                    "id": 2,
+                    "subjectName": "english",
+                    "year": 2022,
+                    "questionType": "2021 poriporok question"
+                },
+                {
+                    "semester": 1,
+                    "id": 3,
+                    "subjectName": "math",
+                    "year": 2022,
+                    "questionType": "2021 poriporok question"
+                }
+            
+            ]
+        }]
+    }
+
+]
